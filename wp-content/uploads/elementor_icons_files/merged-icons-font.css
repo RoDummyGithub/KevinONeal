@@ -1,0 +1,36 @@
+i.eci { 
+display: block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+     }
+     .select2-container i.eci,
+     .elementor-icon-list-icon i.eci {
+       display: inline-block;
+     }
+     .elementor-icons-manager__tab__item__icon.eci {
+    font-size: 28px;
+}
+.elementor-icons-manager__tab-link i.eci {
+    display: inline-block;
+    font-size: 18px;
+}
+@font-face {
+ font-family: 'phone';
+  src: url('./fontello-943bdc4c.zip/fontello-943bdc4c/font/phone.eot?921331561');
+  src: url('./fontello-943bdc4c.zip/fontello-943bdc4c/font/phone.eot?921331561#iefix') format('embedded-opentype'),
+       url('./fontello-943bdc4c.zip/fontello-943bdc4c/font/phone.woff2?921331561') format('woff2'),
+       url('./fontello-943bdc4c.zip/fontello-943bdc4c/font/phone.woff?921331561') format('woff'),
+       url('./fontello-943bdc4c.zip/fontello-943bdc4c/font/phone.ttf?921331561') format('truetype'),
+       url('./fontello-943bdc4c.zip/fontello-943bdc4c/font/phone.svg?921331561#phone') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.eci.phone-location-outline::before { content: '\e800'; font-family: 'phone'; }
+.eci.phone-mobile::before { content: '\e801'; font-family: 'phone'; }
+.eci.phone-phone-squared::before { content: '\f098'; font-family: 'phone'; }
+.eci.phone-mail-alt::before { content: '\f0e0'; font-family: 'phone'; }
+
+
