@@ -1,5 +1,3 @@
-<br />
-<b>Warning</b>:  mysqli_query(): (HY000/6): Error on delete of 'C:\xampp\tmp\#sql1fd8_9bc_2.MAI' (Errcode: 13 &quot;Permission denied&quot;) in <b>C:\xampp\htdocs\KevinONeal\wp-includes\wp-db.php</b> on line <b>2024</b><br />
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
@@ -36,7 +34,8 @@
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 25 Oct 2016 17:37:53 +0000</pubDate>
-				<guid isPermaLink="false">http://lawyer2.mythemecloud.io/?p=229</guid>
+				<category><![CDATA[Tricks]]></category>
+		<guid isPermaLink="false">http://lawyer2.mythemecloud.io/?p=229</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
@@ -60,7 +59,8 @@
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 25 Oct 2016 17:34:50 +0000</pubDate>
-				<guid isPermaLink="false">http://lawyer2.mythemecloud.io/?p=227</guid>
+				<category><![CDATA[Tricks]]></category>
+		<guid isPermaLink="false">http://lawyer2.mythemecloud.io/?p=227</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
@@ -84,7 +84,8 @@
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 25 Oct 2016 17:34:08 +0000</pubDate>
-				<guid isPermaLink="false">http://lawyer2.mythemecloud.io/?p=225</guid>
+				<category><![CDATA[Tricks]]></category>
+		<guid isPermaLink="false">http://lawyer2.mythemecloud.io/?p=225</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
@@ -108,7 +109,8 @@
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 25 Oct 2016 17:33:27 +0000</pubDate>
-				<guid isPermaLink="false">http://lawyer2.mythemecloud.io/?p=223</guid>
+				<category><![CDATA[Tricks]]></category>
+		<guid isPermaLink="false">http://lawyer2.mythemecloud.io/?p=223</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
@@ -132,7 +134,8 @@
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 25 Oct 2016 17:30:58 +0000</pubDate>
-				<guid isPermaLink="false">http://lawyer2.mythemecloud.io/?p=221</guid>
+				<category><![CDATA[Tricks]]></category>
+		<guid isPermaLink="false">http://lawyer2.mythemecloud.io/?p=221</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
@@ -156,7 +159,8 @@
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 25 Oct 2016 17:03:13 +0000</pubDate>
-				<guid isPermaLink="false">http://lawyer2.mythemecloud.io/?p=203</guid>
+				<category><![CDATA[Tricks]]></category>
+		<guid isPermaLink="false">http://lawyer2.mythemecloud.io/?p=203</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
